@@ -21,3 +21,43 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 48px;
 }
+.lista-item{
+    display: grid;
+    padding: 0 0 0 0;
+    margin: 0 12px 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.search-box{
+    position: absolute;
+    top: 5px;
+    left: 92%;
+    transform: translate(-95%, -8%);
+    background: ;
+    height: 35px;
+    padding: 7px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.lupa-branca{
+    display: none;
+    width: 40px;
+}
+.lupa-azul{
+    width: 40%;
+}
+.search-text{
+    background: none;
+    border: 0;
+    outline: 0;
+    font-size: 16px;
+    width: 0;
+    padding: 0;
+    transition: 0.45;
+}
+.search-btn{
+    width: 48px;
+    height: 40px;
+}
