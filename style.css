@@ -61,3 +61,21 @@
     width: 48px;
     height: 40px;
 }
+.informaçoes-gerais{
+    background-color: #EA2828;
+    display: inline-block;
+    margin: 0 250px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sobre-o-seriado{
+    background-color: #EA2828;
+    display: inline-block;
+}
+.texto-1{
+   width: 35%;
+}
+.texto1{
+    width: 45%;
+}
